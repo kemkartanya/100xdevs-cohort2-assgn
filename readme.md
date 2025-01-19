@@ -1,1 +1,1 @@
-# hello
+## My solutions to assignments in 100xdevs cohort 2 (0-100)
